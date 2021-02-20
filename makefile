@@ -3,3 +3,6 @@ compile:
 
 run:
 	java -ea bin\GameOfLife
+
+clean:
+	rm src/edu/smathers/gol/view/*.class
