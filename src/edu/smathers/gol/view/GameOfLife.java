@@ -21,8 +21,6 @@ public class GameOfLife{
 		mouse.start();
 		Runner run = new Runner(this);
 		run.start();
-		
-		
 	}
 	public static void main(String[] args){
 		GameOfLife life = new GameOfLife();
