@@ -1,0 +1,2 @@
+java -ea GameOfLife
+pause
